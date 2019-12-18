@@ -1,5 +1,5 @@
 {
-  "name": "render-null-decorator",
+  "name": "@feizheng/render-null-decorator",
   "version": "1.0.0",
   "description": "Render null for react.",
   "homepage": "https://github.com/afeiship/render-null-decorator",
@@ -8,5 +8,8 @@
     "email": "1290657123@qq.com"
   },
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
