@@ -3,7 +3,7 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/render-null-decorator
+npm i -S @jswork/render-null-decorator
 ```
 
 ## descriptions
